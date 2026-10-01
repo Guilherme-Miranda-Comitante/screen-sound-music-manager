@@ -32,7 +32,8 @@ O projeto segue boas práticas de separação de responsabilidades para manter o
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Guilherme-Miranda-Comitante/screen-sound-music-manager.git
+   cd screen-sound-music-manager/screen-music
    ```
 2. Abra o projeto no **IntelliJ IDEA** (ou outra IDE de sua preferência).
 3. Configure as credenciais do seu banco de dados no arquivo `application.properties`:

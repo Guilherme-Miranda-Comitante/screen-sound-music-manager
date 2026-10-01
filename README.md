@@ -16,7 +16,7 @@ O programa roda de forma interativa no console e oferece o seguinte menu de opç
 
 - **Java 17** 
 - **Spring Boot & Spring Data JPA:** Utilizados para gerenciar o ciclo de vida da aplicação e simplificar a camada de persistência.
-- **PostgreSQL:** Banco de dados relacional utilizado para armazenar e persistir as informações (ajuste conforme o banco que você utilizou).
+- **PostgreSQL:** Banco de dados relacional utilizado para armazenar e persistir as informações.
 - **Mapeamento JPA (@ManyToOne / @OneToMany):** Implementação de relacionamentos entre as entidades `Artista` e `Musica`.
 - **Derived Queries:** Criação de métodos de busca personalizados nas interfaces de repositório utilizando as convenções de nome do Spring Data JPA.
 - **Java Streams & Enumerations (Enum):** Uso de Enums para categorizar os tipos de artistas e Streams para formatação e manipulação eficiente de coleções.
